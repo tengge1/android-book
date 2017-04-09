@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/itemBack" android:title="@string/itemBack_Title" android:orderInCategory="0"></item><item android:id="@+id/itemRefresh" android:title="@string/itemRefresh_Title" android:orderInCategory="1"></item><item android:id="@+id/itemDonate" android:title="@string/itemDonate_Title" android:orderInCategory="2"></item>
+    <item android:id="@+id/itemExit" android:title="@string/itemExit_Title" android:orderInCategory="3"></item>
+    
+    
+
+</menu>

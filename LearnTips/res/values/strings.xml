@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">学习小技巧</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ImageView1_ContentDescription">列表项目开始图标</string>
+    <string name="itemDonate_Title">捐赠作者</string>
+    <string name="itemExit_Title">退出程序</string>
+    <string name="itemBack_Title">返回目录</string>
+    <string name="itemRefresh_Title">刷新金币数量</string>
+
+</resources>
